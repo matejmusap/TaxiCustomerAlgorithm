@@ -45,14 +45,3 @@ namespace TaxiCustomerAlgorithm
         }
     }
 }
-
-/*tri customera puta tri taksista je 9 troškova
-svaki takist izabare jednog customera
-1 takist prvi trošak => ista 3 troška => 1 takista 1 trošak => 9 KOMB
-1 takist drugi trošak => ista 3 troška* => 1 takista 2 trošak => 9 KOMB
-1 takist treći tošak => ista 3 troška* => 1 takista 3 trošak => 9 KOMB
-zbroj troškova
-dobiti prvi trošak
-ako je idući trošak veći odbaci, ako je manji postaje prvi
-izabrati najmanji trošak
-vratiti taksix customerx taksiy customery taksiz customerz*/
